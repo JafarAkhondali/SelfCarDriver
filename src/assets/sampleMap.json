@@ -1,0 +1,45 @@
+{
+  "version": 0.1,
+  "car": {
+    "position": {
+      "x": 50,
+      "y": 50
+    }
+  },
+  "ground":{
+    "width": 1000,
+    "height": 1000
+  },
+  "pedestrians": [
+    {
+      "height": 3,
+      "position": {
+        "x": 5,
+        "y": 10
+      }
+    },
+    {
+      "height": 4,
+      "position": {
+        "x": 450,
+        "y": 500
+      }
+    }
+  ],
+  "trees": [
+    {
+      "width": 3,
+      "position": {
+        "x": 100,
+        "y": 200
+      }
+    },
+    {
+      "width": 2,
+      "position": {
+        "x": 200,
+        "y": 300
+      }
+    }
+  ]
+}
